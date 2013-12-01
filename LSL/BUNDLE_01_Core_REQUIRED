@@ -1,0 +1,27 @@
+ITEM|~version
+ITEM|OpenCollar Guide
+ITEM|OpenCollar License
+ITEM|Temple
+ITEM|Tranquility
+ITEM|!totallytransparent
+ITEM|chain
+ITEM|rope
+ITEM|Leash Holder
+ITEM|Grabby Post
+ITEM|kneel
+ITEM|~PostureOverride
+SCRIPT|OpenCollar - cleanup
+SCRIPT|OpenCollar - menu
+SCRIPT|OpenCollar - auth
+SCRIPT|OpenCollar - getavi
+SCRIPT|OpenCollar - listener
+SCRIPT|OpenCollar - dialog
+SCRIPT|OpenCollar - update
+SCRIPT|OpenCollar - settings
+SCRIPT|OpenCollar - anim
+SCRIPT|OpenCollar - leash
+SCRIPT|OpenCollar - leashParticle
+SCRIPT|OpenCollar - lock
+SCRIPT|OpenCollar - appearance
+SCRIPT|OpenCollar - hide
+SCRIPT|OpenCollar - touch
