@@ -1,4 +1,4 @@
-Issue: 20131115.1
+Issue: 20131201.1
 
-New Vendors, Gift Options and 3.937
-http://www.opencollar.at/blog.html
+Your text goes here!
+http://www.opencollar.at/forum.html#!/avination
